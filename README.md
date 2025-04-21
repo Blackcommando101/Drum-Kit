@@ -56,7 +56,7 @@ To run this project locally:
    open index.html
    ```
 
-## ✍️ Author
+## 👨‍💻 Developer
 
 **Razeel Kapdi**
 
